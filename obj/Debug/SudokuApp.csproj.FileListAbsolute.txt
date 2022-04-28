@@ -1,0 +1,10 @@
+C:\Users\Azlan\Desktop\VSCode\SudokuApp\obj\Debug\SudokuApp.csproj.AssemblyReference.cache
+C:\Users\Azlan\Desktop\VSCode\SudokuApp\obj\Debug\SudokuApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Azlan\Desktop\VSCode\SudokuApp\obj\Debug\SudokuApp.Properties.Resources.resources
+C:\Users\Azlan\Desktop\VSCode\SudokuApp\obj\Debug\SudokuApp.csproj.GenerateResource.cache
+C:\Users\Azlan\Desktop\VSCode\SudokuApp\obj\Debug\SudokuApp.csproj.CoreCompileInputs.cache
+C:\Users\Azlan\Desktop\VSCode\SudokuApp\bin\Debug\SudokuApp.exe.config
+C:\Users\Azlan\Desktop\VSCode\SudokuApp\bin\Debug\SudokuApp.exe
+C:\Users\Azlan\Desktop\VSCode\SudokuApp\bin\Debug\SudokuApp.pdb
+C:\Users\Azlan\Desktop\VSCode\SudokuApp\obj\Debug\SudokuApp.exe
+C:\Users\Azlan\Desktop\VSCode\SudokuApp\obj\Debug\SudokuApp.pdb
